@@ -4,8 +4,6 @@
 Text_Utils stands out due to its user-friendly interface, real-time text manipulation, and multiple utilities combined in one seamless application. Unlike other basic text tools, it offers a streamlined experience with additional features like dark mode and instant text preview.
 Text_Utils is a simple yet powerful text manipulation web application built using React. It provides various features to analyze and modify text efficiently.
 
-![Text_Utils Screenshot](readme)
-
 ## Features
 - **Convert to Uppercase:** Transform your text into uppercase with a single click.
 - **Convert to Lowercase:** Easily change all characters to lowercase.

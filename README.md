@@ -1,6 +1,52 @@
-# Getting Started with Create React App
+# Text_Utils
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+Text_Utils stands out due to its user-friendly interface, real-time text manipulation, and multiple utilities combined in one seamless application. Unlike other basic text tools, it offers a streamlined experience with additional features like dark mode and instant text preview.
+Text_Utils is a simple yet powerful text manipulation web application built using React. It provides various features to analyze and modify text efficiently.
+
+![Text_Utils Screenshot](readme)
+
+## Features
+- **Convert to Uppercase:** Transform your text into uppercase with a single click.
+- **Convert to Lowercase:** Easily change all characters to lowercase.
+- **Copy Text:** Quickly copy the modified text to the clipboard.
+- **Remove Extra Spaces:** Clean up unnecessary spaces in your text.
+- **Word & Character Counter:** Get an instant count of words and characters.
+- **Text Preview:** View real-time text modifications.
+- **Dark Mode Support:** Toggle between light and dark modes for better readability.
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Text_Utils.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Text_Utils
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+The application should now be running at `http://localhost:3000/`.
+
+## Usage
+1. Enter or paste text into the input box.
+2. Use the buttons to modify or analyze the text.
+3. Copy or utilize the transformed text as needed.
+
+## Technologies Used
+- **React** – Frontend framework
+- **Bootstrap** – Styling and layout
+- **JavaScript (ES6+)** – Core functionality
+- **HTML/CSS** – Structure and design
 
 ## Available Scripts
 
@@ -68,3 +114,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+Feel free to fork this project and submit pull requests with improvements or additional features.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, feel free to reach out via email or open an issue on GitHub.
+
+---
+Enjoy using **Text_Utils**! 🚀
